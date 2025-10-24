@@ -1,0 +1,22 @@
+{
+  "tokenMint": "2bvTCZrV2wm5sDj2KENEbERzAXo3w499cVB9wDbXbonk",
+  "buyAmount": {
+    "min": 0.01,
+    "max": 0.1
+  },
+  "sellAmount": {
+    "min": 0.01,
+    "max": 0.1
+  },
+  "walletCount": {
+    "min": 1,
+    "max": 5
+  },
+  "delay": {
+    "min": 1,
+    "max": 5
+  },
+  "cycles": 10,
+  "jitoTip": 0.0001,
+  "dryRun": false
+}
